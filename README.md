@@ -1,2 +1,2 @@
-# Tokol
-Toko Online DistroIT dengan PHP native, MySQLi dan Bootstrap 3
+# SIPMO (Sistem Informasi Penjualan Makanan Online)
+Menggunakan PHP 5.6 dan boostrap 4
